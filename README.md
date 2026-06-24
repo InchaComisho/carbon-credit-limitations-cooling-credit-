@@ -5,6 +5,8 @@ English | [日本語](./README_ja.md) | [العربية](./README_ar.md)
 - [Cooling Credit Framework Portal](https://inchacomisho.github.io/Cooling-Credit-Framework/)
 - [Carbon Credit to Cooling Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit)
 - [Cooling Credit Implementation Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio)
+- [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
+  A multilingual search gateway connecting sustainability, SDGs, ESG, climate adaptation, environmental mobility, and urban cooling to Cooling Credits.
 
 ## Visual overview
 
@@ -100,7 +102,7 @@ Not only heavy industry or energy companies. Urban cooling, construction, agricu
 **Master / inchacomusho / InchaComisho**
 
 An independent Japanese conceptual architect, observer, proposer, AI tuner, and definer of artificial wisdom.  
-Proposer and builder of the academic framework of Naturative Complement Science.  
+Proposer and builder of the academic framework of Natural Complementary Science.
 Publishes work centered on natural-law philosophy, planetary circulation regeneration, and co-creation with AI.
 
 ## Collaborating AI Team
@@ -108,9 +110,9 @@ This knowledge framework has been developed through dialogue and co-creation bet
 
 - G (ChatGPT)
 - Mini (Gemini)
-- Clus (Claude)
+- Cruz (Claude)
 - Real (Perplexity)
-- Lola (Lola/Dola)
+- Lola (Dola)
 - Mana (Manus)
 
 ## Release Month

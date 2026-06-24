@@ -5,6 +5,8 @@
 - [クーリングクレジット制度設計ポータル](https://inchacomisho.github.io/Cooling-Credit-Framework/)
 - [カーボンクレジットからクーリングクレジットへ](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README_ja.md)
 - [クーリングクレジット実装ポートフォリオ](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio/blob/main/README_ja.md)
+- [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
+  サステナブル、SDGs、ESG、気候適応、環境モビリティ、都市冷却などの検索語から、クーリングクレジットへ接続する多言語検索入口ポータル。
 
 ## 図解概要
 
