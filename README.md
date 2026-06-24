@@ -98,6 +98,9 @@ Not only heavy industry or energy companies. Urban cooling, construction, agricu
 
 ---
 
+- [El Niño Warning and Cooling Credit](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit)
+  Explains why El Niño in the age of global warming should be understood as a warning signal from an already heat-loaded ocean, and connects that warning to Cooling Credits and thermal accounting.
+
 ## Author
 **Master / inchacomusho / InchaComisho**
 
