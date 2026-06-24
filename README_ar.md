@@ -1,5 +1,11 @@
 # هل تستطيع أرصدة الكربون تبريد الكوكب؟ — الحدود البنيوية وضرورة الانتقال إلى أرصدة التبريد
 
+[English](./README.md) | [日本語](./README_ja.md) | العربية
+
+- [بوابة تصميم نظام أرصدة التبريد](https://inchacomisho.github.io/Cooling-Credit-Framework/)
+- [من أرصدة الكربون إلى أرصدة التبريد](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README_ar.md)
+- [محفظة تنفيذ أرصدة التبريد](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio/blob/main/README_ar.md)
+
 ## الملخص
 تعيد هذه الوثيقة فحص مدى فعالية أرصدة الكربون وتعويضات الكربون كأدوات لمواجهة الاحترار العالمي، وذلك من خلال النظر إلى اتجاهات الانبعاثات، وإيرادات تسعير الكربون، وجودة التعويضات، والسؤال الأكثر مباشرة: هل أدت هذه الآليات فعلاً إلى تبريد الكوكب بشكل قابل للقياس؟
 
