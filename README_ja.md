@@ -1,5 +1,11 @@
 # カーボンクレジットは地球を冷やせるのか？──制度の限界とクーリングクレジットへの転換
 
+[English](./README.md) | 日本語 | [العربية](./README_ar.md)
+
+- [クーリングクレジット制度設計ポータル](https://inchacomisho.github.io/Cooling-Credit-Framework/)
+- [カーボンクレジットからクーリングクレジットへ](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README_ja.md)
+- [クーリングクレジット実装ポートフォリオ](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio/blob/main/README_ja.md)
+
 ## 要旨
 本稿は、カーボンクレジットとカーボンオフセットが地球温暖化対策としてどこまで有効だったのかを、排出量動向、炭素価格収入、オフセット品質、そして「実際に地球を冷やしたか」という観点から再検討する。
 
