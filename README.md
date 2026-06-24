@@ -1,7 +1,11 @@
 # Can Carbon Credits Cool the Planet? — Structural Limits and the Case for Cooling Credits
 
  English | [日本語](./README_ja.md) | [العربية](./README_ar.md) 
- 
+
+ - [Cooling Credit Framework Portal](https://inchacomisho.github.io/Cooling-Credit-Framework/)
+- [Carbon Credit to Cooling Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit)
+- [Cooling Credit Implementation Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio)
+
 ## Abstract
 This document reexamines how effective carbon credits and carbon offsets have actually been as climate measures, using emissions trends, carbon pricing revenue, offset quality, and the more direct question of whether they have measurably cooled the planet.
 
